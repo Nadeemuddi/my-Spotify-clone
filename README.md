@@ -9,12 +9,12 @@ Volume Control: Adjust volume and mute/unmute.
 Responsive Design: Works on desktop and mobile screens.
 🛠️ How to Run Locally
 Clone the repository:
-git clone https://github.com/faisalzGIT/Spotify-similar-clone
-cd Spotify-similar-clone
+git clone 
+cd my-Spotify-clone
 Open the project folder in VS Code or your preferred editor.
 Start a local server:
 You can use the Live Server extension in VS Code:
-   - Then open `http://localhost:8000` in your browser.
+   - Then open `http://localhost:3000` in your browser.
 🚀 Features
 Playlist Browsing: View multiple music categories/albums.
 Song List: See all songs in a selected playlist.
